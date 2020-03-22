@@ -1,41 +1,8 @@
-## Some thoughts to help you go far
+## Some musings to help you go far
 
-You can use the [editor on GitHub](https://github.com/allanopen/blog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A long time ago I used to have a blog that some folks found useful. I don't know why they are called permalinks if the links are gone. that is entirely my fault. I'm starting again and my goal is to help you go far/farther. I currently work with all things Microsoft Azure so that will be my focus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allanopen/blog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### About
 
-All of these musings are my own.
+I happen to work for Microsoft but all of these musings are my own.
